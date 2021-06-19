@@ -1,1 +1,52 @@
 // Specific CSS for your home-page
+
+body {
+  background-color: black;
+  color: whitesmoke;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 14vh;
+  padding-top: 30px;
+}
+
+h3 span {
+  display: block;
+  margin: 0 10%;
+}
+
+h3 span.left{
+  text-align: left;
+}
+
+h3 span.right{
+  text-align: right;
+}
+
+.head{
+  text-align: center;
+  border-bottom: 2px solid whitesmoke;
+  width: 50vw;
+}
+
+.head h4 {
+  font-size: 7vh;
+}
+
+.greeting {
+  height: 100vh;
+  margin: auto;
+}
+
+.bio {
+  width: 50vw;
+  font-size: 3vh;
+}
