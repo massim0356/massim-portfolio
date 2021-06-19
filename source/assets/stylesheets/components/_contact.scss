@@ -1,0 +1,16 @@
+.contact{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.contact-button{
+  padding-right: 20px;
+  font-size: 5vh;
+}
+
+.contact-button a{
+  text-decoration: none;
+  color: whitesmoke;
+}

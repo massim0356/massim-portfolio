@@ -1,0 +1,5 @@
+<% data.products.each do |product| %>
+  <div class="project-image"><%= image_tag(product.image) %></div>
+  <div class="project-name"><%= link_to product.name, product.url  %></div>
+  <div class="project-description"><%= product.description %></div>
+<% end %>
