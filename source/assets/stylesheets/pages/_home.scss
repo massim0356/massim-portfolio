@@ -45,6 +45,8 @@ h3 span.right{
 .greeting {
   height: 100vh;
   margin: auto;
+  display: flex;
+  flex-direction: column;
 }
 
 .bio {
