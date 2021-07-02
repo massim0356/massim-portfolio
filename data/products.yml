@@ -1,4 +1,3 @@
-
 - name: ConnecPet
   description: Connect with petowners near you. Has a full friendship and messaging system. Allows petowners to list petsitting services. Other users can book these services.
   image: ConnecPet.png
@@ -8,3 +7,8 @@
   description: Book professional prank services near you. Users can book pranks and see the results after they've been completed.
   image: prankt.png
   url: https://prankt.herokuapp.com/
+
+- name: hikanji
+  description: A kanji dictionary that lets you search by the Kanji or Reading. Uses the kanjiapi.dev API.
+  image: hikanji.png
+  url: https://hikanji.herokuapp.com/
