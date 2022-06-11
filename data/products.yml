@@ -1,7 +1,7 @@
 - name: ConnecPet
   description: Connect with petowners near you. Has a full friendship and messaging system. Allows petowners to list petsitting services. Other users can book these services.
   image: ConnecPet.png
-  url: https://www.connecpet.org/
+  url: https://connecpet.herokuapp.com/
 
 - name: Prankt
   description: Book professional prank services near you. Users can book pranks and see the results after they've been completed.
